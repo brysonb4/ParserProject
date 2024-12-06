@@ -9,7 +9,7 @@ In this project I implemented a parser for the Python language using Context-fre
 
 - Bryson Bourisaw
 
-# Requirements Required for the Parser
+# Requirements for the Parser and Set-up
 
 - ANTLR
 - Java Development Kit
