@@ -29,4 +29,8 @@ Steps for the project setup
 # How to use/run the parser
 
 1. Go inside the Main.java and change the filepath to whatever file you want to parse. Or you can choose to change the string input and uncomment the 'CharStream cs = fromString(input);' line (comment out the filepath and fromFileName(filepath) line.
-2. Run the Main.java file and you should be able to view the outputted parse tree. 
+2. Run the Main.java file and you should be able to view the outputted parse tree.
+
+# Project Demo 
+
+https://youtu.be/AnzYkEqItH8 
